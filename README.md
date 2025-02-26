@@ -1,0 +1,1 @@
+This is my implementation of the Vision Transformer. I did this as part of a university seminar, which is why the use of torch.nn was forbidden, so this implementation is completely from scratch, inspired by the ViT paper.
